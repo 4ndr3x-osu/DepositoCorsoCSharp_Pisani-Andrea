@@ -59,6 +59,6 @@ class Program
 
         Console.Write("Scrivi l'esponente: ");
 
-        Console.WriteLine(Potenza(num, int.Parse(Console.ReadLine())));
+        Console.WriteLine($"Il risultato è: {Potenza(num, int.Parse(Console.ReadLine()))}\n");
     }
 }
