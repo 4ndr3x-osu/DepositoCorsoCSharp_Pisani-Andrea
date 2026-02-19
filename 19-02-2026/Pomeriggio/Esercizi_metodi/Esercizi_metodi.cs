@@ -40,7 +40,7 @@ class Program
         //-----ESERCIZIO 2
 
         Console.Write("\nInserisci un numero intero: ");
-        
+
         if(VerificaPari(int.Parse(Console.ReadLine())))
         {
             Console.WriteLine("Il numero è pari");
@@ -54,7 +54,7 @@ class Program
 
         //-----ESERCIZIO 3
 
-        Console.Write("Scrivi un numero intero: ");
+        Console.Write("\nScrivi un numero intero: ");
         int num = int.Parse(Console.ReadLine());
 
         Console.Write("Scrivi l'esponente: ");
