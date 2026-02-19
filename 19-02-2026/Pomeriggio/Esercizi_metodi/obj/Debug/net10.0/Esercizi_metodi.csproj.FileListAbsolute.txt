@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.exe
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.deps.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.sourcelink.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\refint\Esercizi_metodi.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\19-02-2026\Pomeriggio\Esercizi_metodi\obj\Debug\net10.0\ref\Esercizi_metodi.dll

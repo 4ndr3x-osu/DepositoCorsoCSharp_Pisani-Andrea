@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DepositoCorsoCSharp_Pisani-Andrea\\16-02-2026\\Mattina\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DepositoCorsoCSharp_Pisani-Andrea\\16-02-2026\\Mattina\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DepositoCorsoCSharp_Pisani-Andrea\\19-02-2026\\Pomeriggio\\Esercizi_metodi\\Esercizi_metodi.csproj",
+      "projectName": "Esercizi_metodi",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DepositoCorsoCSharp_Pisani-Andrea\\19-02-2026\\Pomeriggio\\Esercizi_metodi\\Esercizi_metodi.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\DepositoCorsoCSharp_Pisani-Andrea\\16-02-2026\\Mattina\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\DepositoCorsoCSharp_Pisani-Andrea\\19-02-2026\\Pomeriggio\\Esercizi_metodi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
