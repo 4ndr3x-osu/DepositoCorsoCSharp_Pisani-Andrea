@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\bin\Debug\net10.0\Prova_do-while.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\bin\Debug\net10.0\Prova_do-while.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\bin\Debug\net10.0\Prova_do-while.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\bin\Debug\net10.0\Prova_do-while.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\bin\Debug\net10.0\Prova_do-while.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\Prova_do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\Prova_do-while.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\Prova_do-while.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\Prova_do-while.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\Prova_do-while.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\refint\Prova_do-while.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\Prova_do-while.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\Prova_do-while.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_do-while\obj\Debug\net10.0\ref\Prova_do-while.dll

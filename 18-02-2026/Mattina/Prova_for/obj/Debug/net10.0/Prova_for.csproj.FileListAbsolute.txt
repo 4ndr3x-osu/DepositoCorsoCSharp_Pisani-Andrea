@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\bin\Debug\net10.0\Prova_for.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\bin\Debug\net10.0\Prova_for.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\bin\Debug\net10.0\Prova_for.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\bin\Debug\net10.0\Prova_for.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\bin\Debug\net10.0\Prova_for.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\Prova_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\Prova_for.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\Prova_for.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\Prova_for.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\Prova_for.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\refint\Prova_for.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\Prova_for.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\Prova_for.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Mattina\Prova_for\obj\Debug\net10.0\ref\Prova_for.dll

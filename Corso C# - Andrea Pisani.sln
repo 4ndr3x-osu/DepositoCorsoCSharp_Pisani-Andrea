@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16-02-2026", "16-02-2026", "{FC4C47FA-DE02-5215-C4B3-C68E339BD705}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mattina", "Mattina", "{F920D354-B847-3789-EF90-2D3292D4B93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "16-02-2026\Mattina\HelloWorld\HelloWorld.csproj", "{7C35C9D6-50E7-092E-E668-FB9993913B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C35C9D6-50E7-092E-E668-FB9993913B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C35C9D6-50E7-092E-E668-FB9993913B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C35C9D6-50E7-092E-E668-FB9993913B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C35C9D6-50E7-092E-E668-FB9993913B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F920D354-B847-3789-EF90-2D3292D4B93D} = {FC4C47FA-DE02-5215-C4B3-C68E339BD705}
+		{7C35C9D6-50E7-092E-E668-FB9993913B0B} = {F920D354-B847-3789-EF90-2D3292D4B93D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D39E86-81A5-4712-A1D6-187C81A0BAC9}
+	EndGlobalSection
+EndGlobal

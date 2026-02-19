@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\bin\Debug\net10.0\Prova_switch.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\bin\Debug\net10.0\Prova_switch.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\bin\Debug\net10.0\Prova_switch.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\bin\Debug\net10.0\Prova_switch.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\bin\Debug\net10.0\Prova_switch.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\Prova_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\Prova_switch.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\Prova_switch.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\Prova_switch.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\Prova_switch.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\refint\Prova_switch.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\Prova_switch.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\Prova_switch.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_switch\obj\Debug\net10.0\ref\Prova_switch.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\bin\Debug\net10.0\Prova_if-else.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\bin\Debug\net10.0\Prova_if-else.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\bin\Debug\net10.0\Prova_if-else.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\bin\Debug\net10.0\Prova_if-else.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\bin\Debug\net10.0\Prova_if-else.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\Prova_if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\Prova_if-else.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\Prova_if-else.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\Prova_if-else.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\Prova_if-else.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\refint\Prova_if-else.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\Prova_if-else.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\Prova_if-else.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_if-else\obj\Debug\net10.0\ref\Prova_if-else.dll

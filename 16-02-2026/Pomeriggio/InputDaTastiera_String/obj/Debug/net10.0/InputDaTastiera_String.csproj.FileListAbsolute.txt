@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\bin\Debug\net10.0\InputDaTastiera_String.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\bin\Debug\net10.0\InputDaTastiera_String.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\bin\Debug\net10.0\InputDaTastiera_String.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\bin\Debug\net10.0\InputDaTastiera_String.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\bin\Debug\net10.0\InputDaTastiera_String.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\InputDaTastiera_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\InputDaTastiera_String.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\InputDaTastiera_String.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\InputDaTastiera_String.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\InputDaTastiera_String.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\refint\InputDaTastiera_String.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\InputDaTastiera_String.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\InputDaTastiera_String.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_String\obj\Debug\net10.0\ref\InputDaTastiera_String.dll

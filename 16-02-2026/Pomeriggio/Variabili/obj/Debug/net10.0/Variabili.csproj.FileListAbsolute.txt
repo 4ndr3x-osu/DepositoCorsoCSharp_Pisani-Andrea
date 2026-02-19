@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\bin\Debug\net10.0\Variabili.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\bin\Debug\net10.0\Variabili.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\bin\Debug\net10.0\Variabili.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\bin\Debug\net10.0\Variabili.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\bin\Debug\net10.0\Variabili.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\Variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\Variabili.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\Variabili.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\Variabili.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\Variabili.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\refint\Variabili.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\Variabili.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\Variabili.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\Variabili\obj\Debug\net10.0\ref\Variabili.dll

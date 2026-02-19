@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\bin\Debug\net10.0\Prova_array.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\bin\Debug\net10.0\Prova_array.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\bin\Debug\net10.0\Prova_array.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\bin\Debug\net10.0\Prova_array.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\bin\Debug\net10.0\Prova_array.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\Prova_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\Prova_array.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\Prova_array.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\Prova_array.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\Prova_array.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\refint\Prova_array.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\Prova_array.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\Prova_array.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_array\obj\Debug\net10.0\ref\Prova_array.dll

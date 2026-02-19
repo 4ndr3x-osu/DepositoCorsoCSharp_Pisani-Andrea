@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\bin\Debug\net10.0\TipiDiDato.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\bin\Debug\net10.0\TipiDiDato.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\bin\Debug\net10.0\TipiDiDato.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\bin\Debug\net10.0\TipiDiDato.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\bin\Debug\net10.0\TipiDiDato.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\TipiDiDato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\TipiDiDato.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\TipiDiDato.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\TipiDiDato.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\TipiDiDato.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\refint\TipiDiDato.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\TipiDiDato.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\TipiDiDato.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\TipiDiDato\obj\Debug\net10.0\ref\TipiDiDato.dll

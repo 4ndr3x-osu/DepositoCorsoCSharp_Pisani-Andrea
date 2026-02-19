@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\bin\Debug\net10.0\Prova_cicli.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\bin\Debug\net10.0\Prova_cicli.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\bin\Debug\net10.0\Prova_cicli.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\bin\Debug\net10.0\Prova_cicli.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\bin\Debug\net10.0\Prova_cicli.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\Prova_cicli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\Prova_cicli.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\Prova_cicli.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\Prova_cicli.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\Prova_cicli.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\refint\Prova_cicli.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\Prova_cicli.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\Prova_cicli.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Prova_cicli\obj\Debug\net10.0\ref\Prova_cicli.dll

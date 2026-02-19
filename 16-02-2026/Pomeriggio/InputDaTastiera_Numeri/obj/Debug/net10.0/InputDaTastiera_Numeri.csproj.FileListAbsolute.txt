@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\bin\Debug\net10.0\InputDaTastiera_Numeri.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\bin\Debug\net10.0\InputDaTastiera_Numeri.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\bin\Debug\net10.0\InputDaTastiera_Numeri.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\bin\Debug\net10.0\InputDaTastiera_Numeri.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\bin\Debug\net10.0\InputDaTastiera_Numeri.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\InputDaTastiera_Numeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\InputDaTastiera_Numeri.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\InputDaTastiera_Numeri.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\InputDaTastiera_Numeri.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\InputDaTastiera_Numeri.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\refint\InputDaTastiera_Numeri.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\InputDaTastiera_Numeri.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\InputDaTastiera_Numeri.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera_Numeri\obj\Debug\net10.0\ref\InputDaTastiera_Numeri.dll

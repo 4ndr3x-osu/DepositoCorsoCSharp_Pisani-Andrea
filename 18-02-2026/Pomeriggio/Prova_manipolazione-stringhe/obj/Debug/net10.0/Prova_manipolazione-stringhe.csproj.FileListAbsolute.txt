@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\bin\Debug\net10.0\Prova_manipolazione-stringhe.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\bin\Debug\net10.0\Prova_manipolazione-stringhe.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\bin\Debug\net10.0\Prova_manipolazione-stringhe.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\bin\Debug\net10.0\Prova_manipolazione-stringhe.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\bin\Debug\net10.0\Prova_manipolazione-stringhe.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\Prova_manipolazione-stringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\Prova_manipolazione-stringhe.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\Prova_manipolazione-stringhe.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\Prova_manipolazione-stringhe.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\Prova_manipolazione-stringhe.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\refint\Prova_manipolazione-stringhe.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\Prova_manipolazione-stringhe.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\Prova_manipolazione-stringhe.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\18-02-2026\Pomeriggio\Prova_manipolazione-stringhe\obj\Debug\net10.0\ref\Prova_manipolazione-stringhe.dll

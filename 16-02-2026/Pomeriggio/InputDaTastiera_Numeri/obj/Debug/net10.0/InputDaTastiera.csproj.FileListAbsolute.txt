@@ -1,0 +1,4 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera\obj\Debug\net10.0\InputDaTastiera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera\obj\Debug\net10.0\InputDaTastiera.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera\obj\Debug\net10.0\InputDaTastiera.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\InputDaTastiera\obj\Debug\net10.0\InputDaTastiera.csproj.CoreCompileInputs.cache

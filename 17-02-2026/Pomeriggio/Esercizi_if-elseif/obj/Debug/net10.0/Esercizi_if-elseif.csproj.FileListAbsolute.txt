@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\bin\Debug\net10.0\Esercizi_if-elseif.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\bin\Debug\net10.0\Esercizi_if-elseif.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\bin\Debug\net10.0\Esercizi_if-elseif.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\bin\Debug\net10.0\Esercizi_if-elseif.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\bin\Debug\net10.0\Esercizi_if-elseif.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\Esercizi_if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\Esercizi_if-elseif.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\Esercizi_if-elseif.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\Esercizi_if-elseif.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\Esercizi_if-elseif.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\refint\Esercizi_if-elseif.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\Esercizi_if-elseif.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\Esercizi_if-elseif.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Pomeriggio\Esercizi_if-elseif\obj\Debug\net10.0\ref\Esercizi_if-elseif.dll

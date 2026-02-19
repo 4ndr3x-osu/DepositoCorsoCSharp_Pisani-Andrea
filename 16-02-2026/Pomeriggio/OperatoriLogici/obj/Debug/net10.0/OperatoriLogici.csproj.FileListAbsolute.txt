@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\bin\Debug\net10.0\OperatoriLogici.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\bin\Debug\net10.0\OperatoriLogici.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\bin\Debug\net10.0\OperatoriLogici.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\bin\Debug\net10.0\OperatoriLogici.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\bin\Debug\net10.0\OperatoriLogici.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\OperatoriLogici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\OperatoriLogici.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\OperatoriLogici.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\OperatoriLogici.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\OperatoriLogici.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\refint\OperatoriLogici.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\OperatoriLogici.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\OperatoriLogici.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\16-02-2026\Pomeriggio\OperatoriLogici\obj\Debug\net10.0\ref\OperatoriLogici.dll

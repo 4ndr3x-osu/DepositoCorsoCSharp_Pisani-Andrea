@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\bin\Debug\net10.0\Esercizi_if.exe
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\bin\Debug\net10.0\Esercizi_if.deps.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\bin\Debug\net10.0\Esercizi_if.runtimeconfig.json
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\bin\Debug\net10.0\Esercizi_if.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\bin\Debug\net10.0\Esercizi_if.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\Esercizi_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\Esercizi_if.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\Esercizi_if.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\Esercizi_if.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\Esercizi_if.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\refint\Esercizi_if.dll
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\Esercizi_if.pdb
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\Esercizi_if.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\Corso C# - Andrea Pisani\17-02-2026\Mattina\Esercizi_if\obj\Debug\net10.0\ref\Esercizi_if.dll

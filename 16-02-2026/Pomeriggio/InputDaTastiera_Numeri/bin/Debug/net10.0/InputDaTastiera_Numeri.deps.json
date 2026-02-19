@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "InputDaTastiera_Numeri/1.0.0": {
+        "runtime": {
+          "InputDaTastiera_Numeri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InputDaTastiera_Numeri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
