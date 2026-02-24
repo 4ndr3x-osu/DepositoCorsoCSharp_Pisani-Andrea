@@ -41,6 +41,8 @@ class Program
         }
         #endregion
 
+
+
         #region ESERCIZIO 2
         int[,] matrice1 = new int[4,4];
         int[,] matrice2 = new int[4,4];
@@ -106,12 +108,15 @@ class Program
         }
         #endregion
 
+
+
         #region ESERCIZIO 3
         int[,] matrice_diagonale = new int[5,5];
         int size = 5;
         int diagonale1 = 0;
         int diagonale2 = 0;
         Random rand_diagonale = new Random();
+
         for(int i = 0; i < size; i++)
         {
             for(int j = 0; j < size; j++)
@@ -119,16 +124,20 @@ class Program
                 matrice_diagonale[i,j] = rand_diagonale.Next(1, 21);
             }
         }
+
         Console.WriteLine("Matrice: ");
         StampaMatrice(matrice_diagonale, size);
+
         for(int i = 0, j = size-1; i < size; i++, j--)
         {
             Console.WriteLine($"{i} // {j}");
             diagonale1 += matrice_diagonale[i , i];
             diagonale2 += matrice_diagonale[j, i];
         }
+
         Console.WriteLine($"Somma diagonale principale: {diagonale1}");
         Console.WriteLine($"Somma diagonale secondaria: {diagonale2}");
+
         if(diagonale1 > diagonale2)
         {
             Console.WriteLine("La diagonale principale è più grande della diagonale secondaria");
@@ -139,13 +148,11 @@ class Program
         }
         else
         {
-            if(diagonale1 > diagonale2)
-        {
             Console.WriteLine("Entrambe le diagonali sono uguali");
         }
-        }
         #endregion
-    }
+        }
+
 
 
         #region METODI ESERCIZIO 1
@@ -172,7 +179,10 @@ class Program
         }
 
         #endregion
-        #region METODI ESERCIZIO 2
+        
+
+
+        #region METODI ESERCIZIO 2/3
         static void StampaMatrice(int[,] m, int s)
         {
             for(int i = 0; i < s; i++)
@@ -187,4 +197,5 @@ class Program
         }
 
         #endregion
-    }
+    
+}
