@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\bin\Debug\net10.0\Esercizi_liste.exe
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\bin\Debug\net10.0\Esercizi_liste.deps.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\bin\Debug\net10.0\Esercizi_liste.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\bin\Debug\net10.0\Esercizi_liste.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\bin\Debug\net10.0\Esercizi_liste.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\Esercizi_liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\Esercizi_liste.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\Esercizi_liste.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\Esercizi_liste.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\Esercizi_liste.sourcelink.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\Esercizi_liste.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\refint\Esercizi_liste.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\Esercizi_liste.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\Esercizi_liste.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\24-02-2026\Pomeriggio\Esercizi_liste\obj\Debug\net10.0\ref\Esercizi_liste.dll
