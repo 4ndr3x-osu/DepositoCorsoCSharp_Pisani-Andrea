@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\bin\Debug\net10.0\Esercizi_dictionary.exe
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\bin\Debug\net10.0\Esercizi_dictionary.deps.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\bin\Debug\net10.0\Esercizi_dictionary.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\bin\Debug\net10.0\Esercizi_dictionary.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\bin\Debug\net10.0\Esercizi_dictionary.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\Esercizi_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\Esercizi_dictionary.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\Esercizi_dictionary.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\Esercizi_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\Esercizi_dictionary.sourcelink.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\Esercizi_dictionary.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\refint\Esercizi_dictionary.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\Esercizi_dictionary.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\Esercizi_dictionary.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\26-02-2026\Mattina\Esercizi_dictionary\obj\Debug\net10.0\ref\Esercizi_dictionary.dll
