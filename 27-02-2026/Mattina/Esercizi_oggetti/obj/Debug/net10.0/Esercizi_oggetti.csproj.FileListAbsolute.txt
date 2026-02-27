@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\Esercizi_oggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\Esercizi_oggetti.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\Esercizi_oggetti.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\Esercizi_oggetti.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\Esercizi_oggetti.sourcelink.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\bin\Debug\net10.0\Esercizi_oggetti.exe
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\bin\Debug\net10.0\Esercizi_oggetti.deps.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\bin\Debug\net10.0\Esercizi_oggetti.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\bin\Debug\net10.0\Esercizi_oggetti.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\bin\Debug\net10.0\Esercizi_oggetti.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\Esercizi_oggetti.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\refint\Esercizi_oggetti.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\Esercizi_oggetti.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\Esercizi_oggetti.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\27-02-2026\Mattina\Esercizi_oggetti\obj\Debug\net10.0\ref\Esercizi_oggetti.dll
