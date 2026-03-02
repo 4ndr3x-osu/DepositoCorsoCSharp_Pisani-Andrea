@@ -41,6 +41,13 @@ class Program
         LoopInput(input, ref numero2);
 
         Operazioni numeri = new Operazioni(numero1, numero2);
+        Operazioni numeri1 = new Operazioni(numero1, numero2);
+
+        if(numeri.Equals(numeri1))
+        {
+            Console.WriteLine("Oggetti diversi uguali");
+        }
+
 
         SvolgiOperazione(numeri, input);
 

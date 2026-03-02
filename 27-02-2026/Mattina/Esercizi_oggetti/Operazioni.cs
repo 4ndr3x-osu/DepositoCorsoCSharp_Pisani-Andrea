@@ -13,6 +13,15 @@ public class Operazioni
         Num2 = num2;
     }
 
+    public override bool Equals(object obj)
+    {
+        if(obj is Operazioni o)
+        {
+            return this.Num1 == o.Num1 && this.Num2 == o.Num2;
+        }
+        return false;
+    }
+
     public void StampaSomma()
     {
         Console.WriteLine($"La somma di {Num1} e {Num2} è {Num1+Num2}");
