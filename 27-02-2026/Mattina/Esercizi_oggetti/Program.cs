@@ -22,8 +22,8 @@ class Program
         Persona p1 = new Persona("Mario", "Rossi", 1984);
         Persona p2 = new Persona("Andrea", "Pisani", 2007);
 
-        p1.StampaPersona();
-        p2.StampaPersona();
+        Console.WriteLine(p1);
+        Console.WriteLine(p2);
         #endregion
 
 
@@ -47,7 +47,8 @@ class Program
         #endregion
 
 
-
+        #region METODI ESERCIZIO 3
+        
         static bool CheckInt(string i, ref int n)
         {
             bool is_int = false;
@@ -80,6 +81,8 @@ class Program
             while(true);
         }
 
+
+
         static string SelezioneOperazione()
         {
             string i;
@@ -96,6 +99,8 @@ class Program
             return i;
         }
 
+
+
         static void SvolgiOperazione(Operazioni o, string inp)
         {
             inp = SelezioneOperazione();
@@ -108,5 +113,7 @@ class Program
                 o.StampaProdotto();
             }
         }
+
+        #endregion
     }
 }

@@ -6,7 +6,6 @@ public class Operazioni
 {
     int Num1;
     int Num2;
-    public int AnnoNascita;
 
     public Operazioni(int num1, int num2)
     {

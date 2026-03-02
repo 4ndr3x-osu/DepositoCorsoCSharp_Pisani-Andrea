@@ -7,15 +7,15 @@ public class Persona
     public string Cognome;
     public int AnnoNascita;
 
+    public override string ToString()
+    {
+        return($"Nome: {Nome}, Cognome: {Cognome}, Anno nascita: {AnnoNascita}");
+    }
+
     public Persona(string nome, string cognome, int annonascita)
     {
         Nome = nome;
         Cognome = cognome;
         AnnoNascita = annonascita;
-    }
-
-    public void StampaPersona()
-    {
-        Console.WriteLine($"{Nome} {Cognome} è nato nel {AnnoNascita}");
     }
 }
