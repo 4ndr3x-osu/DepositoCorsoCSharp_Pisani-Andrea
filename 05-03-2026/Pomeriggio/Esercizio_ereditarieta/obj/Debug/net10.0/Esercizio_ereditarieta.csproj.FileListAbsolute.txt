@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\Esercizio_ereditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\Esercizio_ereditarieta.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\Esercizio_ereditarieta.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\Esercizio_ereditarieta.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\Esercizio_ereditarieta.sourcelink.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\bin\Debug\net10.0\Esercizio_ereditarieta.exe
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\bin\Debug\net10.0\Esercizio_ereditarieta.deps.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\bin\Debug\net10.0\Esercizio_ereditarieta.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\bin\Debug\net10.0\Esercizio_ereditarieta.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\bin\Debug\net10.0\Esercizio_ereditarieta.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\Esercizio_ereditarieta.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\refint\Esercizio_ereditarieta.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\Esercizio_ereditarieta.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\Esercizio_ereditarieta.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\05-03-2026\Pomeriggio\Esercizio_ereditarieta\obj\Debug\net10.0\ref\Esercizio_ereditarieta.dll
