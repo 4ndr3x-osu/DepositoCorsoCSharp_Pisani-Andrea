@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\Esercizio_due-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\Esercizio_due-pattern.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\Esercizio_due-pattern.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\Esercizio_due-pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\Esercizio_due-pattern.sourcelink.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\bin\Debug\net10.0\Esercizio_due-pattern.exe
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\bin\Debug\net10.0\Esercizio_due-pattern.deps.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\bin\Debug\net10.0\Esercizio_due-pattern.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\bin\Debug\net10.0\Esercizio_due-pattern.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\bin\Debug\net10.0\Esercizio_due-pattern.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\Esercizio_due-pattern.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\refint\Esercizio_due-pattern.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\Esercizio_due-pattern.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\Esercizio_due-pattern.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\09-03-2026\Pomeriggio\Esercizio_due-pattern\obj\Debug\net10.0\ref\Esercizio_due-pattern.dll
