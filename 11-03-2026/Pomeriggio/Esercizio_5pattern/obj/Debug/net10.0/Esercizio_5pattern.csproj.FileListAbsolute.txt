@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\Esercizio_5pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\Esercizio_5pattern.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\Esercizio_5pattern.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\Esercizio_5pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\Esercizio_5pattern.sourcelink.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\bin\Debug\net10.0\Esercizio_5pattern.exe
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\bin\Debug\net10.0\Esercizio_5pattern.deps.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\bin\Debug\net10.0\Esercizio_5pattern.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\bin\Debug\net10.0\Esercizio_5pattern.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\bin\Debug\net10.0\Esercizio_5pattern.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\Esercizio_5pattern.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\refint\Esercizio_5pattern.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\Esercizio_5pattern.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\Esercizio_5pattern.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_5pattern\obj\Debug\net10.0\ref\Esercizio_5pattern.dll
