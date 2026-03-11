@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\Esercizio_strategy-factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\Esercizio_strategy-factory.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\Esercizio_strategy-factory.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\Esercizio_strategy-factory.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\Esercizio_strategy-factory.sourcelink.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\bin\Debug\net10.0\Esercizio_strategy-factory.exe
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\bin\Debug\net10.0\Esercizio_strategy-factory.deps.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\bin\Debug\net10.0\Esercizio_strategy-factory.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\bin\Debug\net10.0\Esercizio_strategy-factory.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\bin\Debug\net10.0\Esercizio_strategy-factory.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\Esercizio_strategy-factory.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\refint\Esercizio_strategy-factory.dll
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\Esercizio_strategy-factory.pdb
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\Esercizio_strategy-factory.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DepositoCorsoCSharp_Pisani-Andrea\11-03-2026\Pomeriggio\Esercizio_strategy-factory\obj\Debug\net10.0\ref\Esercizio_strategy-factory.dll
